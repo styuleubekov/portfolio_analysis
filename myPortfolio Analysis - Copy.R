@@ -173,6 +173,7 @@ lines(x=aggregatedDailyPositionAndMarket$Date,
 
 abline(h = 0, col = 'grey')
 
+#add legend
 legend('topleft', 
        legend = c('My Portfolio',
                              'S&P 500 index',
